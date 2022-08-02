@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 - 👋 Hi, I’m @rappiok
 - 👀 I’m interested in Data Science and Analytics
 - 🌱 I’m currently learning Data Analytics with Udacity
