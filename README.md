@@ -11,7 +11,7 @@
 I am a IT and Database Support Personnel from Ghana.
 
 - 👀 I’m interested in Data Science and Analytics
-- 🌱 I’m currently learning Data Analytics with Udacity
+- 🌱 I’m just completed my certification of a Data Analytics NanoDegree with Udacity and looking forward on enrolling in another Data Analytics to continue improving on my skills.
 - 💞️ I’m open to work opportunities, project collaboration under Data Science and Analytics to help broaden my scope of knowledge
 - 📫 How to reach me <div id="badges"> <a href="www.linkedin.com/in/rebecca-appiok"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a></div>
 
