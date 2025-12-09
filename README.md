@@ -12,11 +12,11 @@ Curiosity led me into OT/ICS security, and it has ignited a real passion.
 
 I’m currently developing hands-on skills in OT network monitoring, security automation, and system hardening. My favorite tools right now are VS Code, Wireshark, Python, and my notebook full of network diagrams and ideas.
 
-You’ll soon see pinned projects from my research and my transition into OT/ICS security — small, practical, and focused on real industrial environments.
+You’ll soon see pinned projects from my research and transition into OT/ICS security, focusing on small, practical, and real-world industrial environments.
 
 I’m also preparing for graduate studies in industrial cybersecurity, with interests in machine learning for OT monitoring, formal verification of safety-critical systems, and resilient architecture design for critical infrastructure.
 
-I’m open to opportunities — IT operations roles, internships, and graduate research positions in industrial cybersecurity.
+I’m open to opportunities in IT operations roles, internships, and graduate research positions in industrial cybersecurity.
 
 ### Fun Facts:
 * I love coffee or tea
