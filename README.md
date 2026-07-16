@@ -4,7 +4,7 @@
 </h1>
 
 ### :woman_technologist:
-I'm Ara, an IT operations and systems specialist based in Ghana. 
+I'm Ari, an IT operations and systems specialist based in Ghana. 
 
 I work with systems, data, and infrastructure, and I'm building my path into health data science. Four years of turning fragmented, paper-based information into systems people can actually trust made me realise the same problem sits underneath a lot of health data in Ghana, just with higher stakes.
 
