@@ -4,24 +4,20 @@
 </h1>
 
 ### :woman_technologist:
-I’m Ara, an IT operations and systems admin based in Ghana.
+I'm Ara, an IT operations and systems specialist based in Ghana. 
 
-I work with systems, data, and infrastructure. And now, I’m building my path into industrial cybersecurity.
+I work with systems, data, and infrastructure, and I'm building my path into health data science. Four years of turning fragmented, paper-based information into systems people can actually trust made me realise the same problem sits underneath a lot of health data in Ghana, just with higher stakes.
 
-Curiosity led me into OT/ICS security, and it has ignited a real passion.
+I'm currently developing hands-on skills in data cleaning, statistical modelling, and machine learning, working through Python, pandas, NumPy, and scikit-learn. My favourite tools right now are VS Code, Jupyter, Power BI, and a notebook full of half-finished analysis ideas.
 
-I’m currently developing hands-on skills in OT network monitoring, security automation, and system hardening. My favorite tools right now are VS Code, Wireshark, Python, and my notebook full of network diagrams and ideas.
+I'm interested in health data systems, disease surveillance and early outbreak detection, and building the analytical layer that turns routine health reporting into something a country can actually act on in time.
 
-You’ll soon see pinned projects from my research and transition into OT/ICS security, focusing on small, practical, and real-world industrial environments.
-
-I’m also preparing for graduate studies in industrial cybersecurity, with interests in machine learning for OT monitoring, formal verification of safety-critical systems, and resilient architecture design for critical infrastructure.
-
-I’m open to opportunities in IT operations roles, internships, and graduate research positions in industrial cybersecurity.
+I'm open to opportunities in data analytics roles, internships, and graduate research positions in health data science.
 
 ### Fun Facts:
 * I love coffee or tea
-* I’m a skincare enthusiast
-* **Hobbies**:  dancing and learning new skills  
+* I’m a dancer
+* **Hobbies**: Learning craft  
 
 
 ### 📫 How to reach me: <div id="badges"> <a href="www.linkedin.com/in/rebecca-appiok"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a></div>
