@@ -6,7 +6,7 @@
 ### :woman_technologist:
 I'm Ari, an IT operations and systems specialist based in Ghana. 
 
-I work with systems, data, and infrastructure, and I'm building my path into health data science. Four years of turning fragmented, paper-based information into systems people can actually trust made me realise the same problem sits underneath a lot of health data in Ghana, just with higher stakes.
+I work with systems, data, and infrastructure, and I'm building my path into data science. Four years of turning fragmented, paper-based information into systems people can actually trust made me realise the same problem sits underneath a lot of health data in Ghana, just with higher stakes.
 
 I'm currently developing hands-on skills in data cleaning, statistical modelling, and machine learning, working through Python, pandas, NumPy, and scikit-learn. My favourite tools right now are VS Code, Jupyter, Power BI, and a notebook full of half-finished analysis ideas.
 
