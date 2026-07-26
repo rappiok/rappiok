@@ -12,7 +12,7 @@ I'm currently developing hands-on skills in data cleaning, statistical modelling
 
 I'm interested in health data systems, disease surveillance and early outbreak detection, and building the analytical layer that turns routine health reporting into something a country can actually act on in time.
 
-I'm open to opportunities in data analytics roles, internships, and graduate research positions in health data science.
+I'm open to data analytics, data science, and research roles where messy real-world data needs to become something people can trust and act on — particularly (but not only) in health systems and public health.
 
 ### Fun Facts:
 * I love coffee or tea
